@@ -95,11 +95,4 @@ An `ExpressionStatemnt` wraps an `Expression` that it returns with `ExpressionSt
 
 # Rubric
 
-| Item | Point Value |
-| ------- | ----------- |
-| Minimal number of tests for `ReturnStatement`, `WhileStatement`, and `IfStatement` in ```ControlFlowGraphBuilder``` using black-box testing | 50 |
-| Minimal number of tests for ```ReachingDefinitionsBuilder``` using black-box testing and mocks for the `ControlFlowGraph` | 75 |
-| Consistent, readable, and descriptive grouping and naming of all tests using `@Nested` or `@Tag` along with `@DisplayName`  | 10 |
-| Implementation of ```ReachingDefinitions``` | 40 |
-| Adherence to best practices (e.g., no errors, no warnings, documented code, well grouped commits, appropriate commit messages, etc.) | 10 | |
-| System integration test | 15 | |
+See Canvas for details
